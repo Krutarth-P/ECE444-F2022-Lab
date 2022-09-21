@@ -25,5 +25,9 @@ Teammate's Repo: https://github.com/mshah0722/ECE444-F2022-Lab1
 EP Repo: https://github.com/Krutarth-P/ECE444-F2022-EP
 
 ## Activity 7
-![Screenshot of Activity 5 rebase](/images/Activity7a.jpg)
-![Screenshot of Activity 5 rebase](/images/Activity7b.jpg)
+![Screenshot of Activity 7 command](/images/Activity7a.jpg)
+![Screenshot of Activity 7 home page](/images/Activity7b.jpg)
+
+## Activity 8
+![Screenshot of Activity 8 command](/images/Activity8a.jpg)
+![Screenshot of Activity 8 new tab page](/images/Activity8b.jpg)
